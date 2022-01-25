@@ -3,3 +3,4 @@
 -eggs
 -videogame
 -tissues
+-papertowels
